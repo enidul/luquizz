@@ -1,0 +1,363 @@
+{
+  "title": "Quelle garniture de bricks du lundi soir es-tu ?",
+  "description": "",
+  "questions": [
+    {
+      "text": "Aujourd’hui, tu te sens plutôt d’humeur...",
+      "answers": [
+        {
+          "text": "Vorace",
+          "points": {
+            "poulet": 2
+          }
+        },
+        {
+          "text": "Astringente",
+          "points": {
+            "dahl": 1
+          }
+        },
+        {
+          "text": "Sinusoïdale",
+          "points": {
+            "epinards": 1,
+            "poulet": 1,
+            "dahl": 1,
+            "causette": 1
+          }
+        },
+        {
+          "text": "Valétudinaire",
+          "points": {
+            "epinards": 1,
+            "poulet": 1,
+            "dahl": 1,
+            "causette": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Ta créature fantastique préférée :",
+      "answers": [
+        {
+          "text": "Le nain (tu lui ressembles un peu)",
+          "points": {
+            "poulet": 2
+          }
+        },
+        {
+          "text": "L'elfe (tu lui ressembles pas du tout)",
+          "points": {
+            "epinards": 2,
+            "dahl": 1
+          }
+        },
+        {
+          "text": "Le hobbit (tu es littéralement un·e des leurs)",
+          "points": {
+            "epinards": 1,
+            "poulet": 1,
+            "dahl": 1
+          }
+        },
+        {
+          "text": "L’âne de shrek (tu es shrek)",
+          "points": {
+            "causette": 2
+          }
+        }
+      ]
+    },
+    {
+      "text": "Si tu devais mourir et te réincarner en une chose inanimée parmi une liste de quatre choix, comment les classerais-tu (du - pire au + pire) ?",
+      "answers": [
+        {
+          "text": "Le micro-onde brûlé avec la taie d’oreiller et le riz encore dedans / le drap d’Hadrien sur lequel quelqu’un aurait vomi / la pizza raclette du Nawab après 4 jours dans un environnement chaud et humide / un sous marin avec Tanguy dedans",
+          "points": {
+            "epinards": 1,
+            "poulet": 1,
+            "dahl": 1,
+            "causette": 1
+          }
+        },
+        {
+          "text": "Le drap / le micro-onde / le sous marin / la pizza",
+          "points": {
+            "epinards": 1,
+            "poulet": 1,
+            "dahl": 1,
+            "causette": 1
+          }
+        },
+        {
+          "text": "La pizza / le sous marin / le micro-onde / le drap",
+          "points": {
+            "epinards": 1,
+            "poulet": 1,
+            "dahl": 1,
+            "causette": 1
+          }
+        },
+        {
+          "text": "Le sous marin / la pizza / le drap / le micro-onde",
+          "points": {
+            "epinards": 1,
+            "poulet": 1,
+            "dahl": 1,
+            "causette": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Ton item du sabbah préféré :",
+      "answers": [
+        {
+          "text": "L'halloumi qui sent le zob",
+          "points": {
+            "poulet": 2
+          }
+        },
+        {
+          "text": "Les feuilles de vignes délicieuses",
+          "points": {
+            "epinards": 2
+          }
+        },
+        {
+          "text": "Les feuilles de vignes de la femme du monsieur",
+          "points": {
+            "dahl": 2
+          }
+        },
+        {
+          "text": "Les avocats qui avocatent",
+          "points": {
+            "epinards": 1,
+            "poulet": 1,
+            "dahl": 1,
+            "causette": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Si tu devais te choisir une qualité et un défaut :",
+      "answers": [
+        {
+          "text": "Aime beaucoup faire la vaisselle mais a une fâcheuse tendance à renverser au sol les verres d’eau (s’ils sont pleins uniquement)",
+          "points": {
+            "causette": 2
+          }
+        },
+        {
+          "text": "Est belleau comme un astre mais est antivax (et ne croit pas en la psychologie)",
+          "points": {
+            "epinards": 1,
+            "poulet": 2,
+            "dahl": 1
+          }
+        },
+        {
+          "text": "Peut se lécher toutes les parties du corps mais fait reposer la charge mentale de l’eau sur saon partenaire (très grave)",
+          "points": {
+            "poulet": 1,
+            "causette": 2
+          }
+        },
+        {
+          "text": "Est le cerveau de toutes les bandes mais aime trop faire la vaisselle pour que ça soit normal (ça cache quelque chose)",
+          "points": {
+            "epinards": 2,
+            "dahl": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Une citation de Ten pour te décrire… attention, il y a un piège :",
+      "answers": [
+        {
+          "text": "« J’aimerais que les gens arrêtent de parler de leur syndrome de l’imposteur, parfois t’es juste pas qualifié·e voilà. »",
+          "points": {
+            "epinards": 1,
+            "poulet": 1,
+            "dahl": 1
+          }
+        },
+        {
+          "text": "« Noirs ? N’importe quoi, mes cheveux sont acajou. »",
+          "points": {
+            "epinards": 1,
+            "poulet": 1,
+            "dahl": 1
+          }
+        },
+        {
+          "text": "« Si on voit un cul flottant c'est que je me suis noyé. »",
+          "points": {
+            "epinards": 1,
+            "poulet": 1,
+            "dahl": 1,
+            "causette": 1
+          }
+        },
+        {
+          "text": "« Miaou miaou »",
+          "points": {
+            "causette": 2
+          }
+        }
+      ]
+    },
+    {
+      "text": "Ton rapport au test de personnalité ?",
+      "answers": [
+        {
+          "text": "Tu en écris pour t’endormir car tu es l’âme de tout moment convivial",
+          "points": {
+            "epinards": 2
+          }
+        },
+        {
+          "text": "Tu les fais de bon coeur car tu es un esprit joyeux",
+          "points": {
+            "epinards": 1,
+            "poulet": 1,
+            "dahl": 1
+          }
+        },
+        {
+          "text": "Tu les fais sous la contrainte car tu es mauvais comme une ronce",
+          "points": {
+            "poulet": 2,
+            "dahl": 1,
+            "causette": 1
+          }
+        },
+        {
+          "text": "Tu trouves ça nul car tu es un bonnet de nuit",
+          "points": {
+            "poulet": 2,
+            "dahl": 1,
+            "causette": 2
+          }
+        }
+      ]
+    },
+    {
+      "text": "Ton pouvoir magique :",
+      "answers": [
+        {
+          "text": "Te téléporter depuis n'importe où vers l’Accord Aréna Paris",
+          "points": {
+            "poulet": 2
+          }
+        },
+        {
+          "text": "Connaître par coeur toute la pop louange française et pouvoir désorienter tes ennemis avec",
+          "points": {
+            "epinards": 2
+          }
+        },
+        {
+          "text": "Pouvoir lire les pensées de Mcfly et Carlito quand tu veux",
+          "points": {
+            "dahl": 2
+          }
+        },
+        {
+          "text": "Ne jamais puer de la gueule dans un monde où tout le monde sent les pieds de la bouche",
+          "points": {
+            "causette": 2
+          }
+        }
+      ]
+    },
+    {
+      "text": "Si l'ascenseur de l'immeuble se coince...",
+      "answers": [
+        {
+          "text": "Tu es dedans",
+          "points": {
+            "poulet": 1,
+            "dahl": 1
+          }
+        },
+        {
+          "text": "Tu es en dehors",
+          "points": {
+            "epinards": 2,
+            "poulet": 2,
+            "causette": 2
+          }
+        },
+        {
+          "text": "Tu es en dehors et tu joues avec des pinces",
+          "points": {
+            "poulet": 2
+          }
+        },
+        {
+          "text": "Tu es à Compiègnes",
+          "points": {
+            "epinards": 2,
+            "dahl": 2
+          }
+        }
+      ]
+    },
+    {
+      "text": "Pour finir, on dit souvent de toi que tu ressembles à...",
+      "answers": [
+        {
+          "text": "Un cheval",
+          "points": {
+            "epinards": 2,
+            "poulet": 2,
+            "dahl": 2
+          }
+        },
+        {
+          "text": "Une vache",
+          "points": {
+            "epinards": 2,
+            "poulet": 2
+          }
+        },
+        {
+          "text": "Une chèvre myotonique",
+          "points": {
+            "epinards": 2,
+            "dahl": 2
+          }
+        },
+        {
+          "text": "Une petite noisette",
+          "points": {
+            "causette": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "epinards": {
+      "title": "Tu es épinards-feta-et-légumes-curry !",
+      "description": "Tu es délicieusement woke, bien qu'on te prépare au four. Si on devait désigner la crudité la plus basée de l'assiette ça serait 100% toi l'élu·e (et pas ce gros fourbe de maïs) car tu es parfait·e en tous points,bien que seul·es les grand·es expert·es de l'art culinaire sachent te faire naitre de leurs mains... C'est peut-être là ton seul défaut alors un conseil pour la suite : n'hésite pas à partager ton génie avec celleux qui t'entourent 🧡"
+    },
+    "poulet": {
+      "title": "Tu es légumes-poulet !!",
+      "description": "Tuer des animaux qui pourraient être tes frères (ou soeurs) et te repaître de leur cadavre ne te pose aucun cas moral. Véritable épicurien·ne de la protéine, tu n'hésiteras jamais à en chiper aux autres, et ce même si c'est la dernière bouchée dans l'assiette de quelqu'un·e... monstre. Malgré tout, tu sais ce qu'il te faut pour vivre et tu existes avec brio (ce qui n'est pas donné à tout le monde). Peu de gens se connaissent et s'assument comme tu le fais : tu mérites le respect et l'admiration des tien·nes. Garde cependant en tête qu'un peu d'empathie de temps en temps ne te transformera pas en pousse de soja 👩‍🌾 !!!"
+    },
+    "dahl": {
+      "title": "Tu es un dahl de lentilles !!",
+      "description": "Petit·e original·e ;) Quand tout le monde s'est enfin mis d'accord sur le film devant lequel passer la soirée, c'est toi qui lance dans la foule devenue calme \"Et sinon, pourquoi pas un Myazaki ^^ ?\"... il faut parfois lire la pièce. Eternellement insatisfait·e des alternatives que te propose ce monde binaire et manichéen, tu tailles dans la roche ton propre chemin à l'aide d'une pioche en diams. Creuse encore un peu moins profond et peut-être trouveras tu un filon de charbon pour faire cuir tes bricks... réfléchis y 🫶"
+    },
+    "causette": {
+      "title": "Tu es Causette !!",
+      "description": "Tu n'es pas à manger mais à craindre. Tu rôdes dans la cuisine prête à renverser, de ta pâte agile (et duveteuse) le moindre récipient - si tant est qu'il soit rempli. Lorsque tu humes au loin une odeur de volaille tu te changes en lucifer, harcelant sans relâche la victime qui osa en manger à porté de tes mignonnes narines et pire encore, si on t'en donne après minuit, tu deviens tout bonnement la terreur de ces bas lieux. Depuis ton plaid en doudou vert, tu es sur la bonne voie pour devenir la reine incontestée de ce monde de va-nus-pieds 💋"
+    }
+  }
+}
