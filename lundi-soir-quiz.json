@@ -1,0 +1,201 @@
+{
+  "title": "Quel·le membre du lundi soir es-tu ?",
+  "description": "Indispensable pour découvrir quel·le membre de la SDSitcome sommeille en toi. Propulsé par la grande quizzeuze en chef, qu’il faut couvrir d’or en remerciement.",
+  "questions": [
+    {
+      "text": "On est lundi soir. Tu es plutôt d’humeur à…",
+      "answers": [
+        {
+          "text": "Raconter par le menu ta journée de travail en te plaignant des hommes qui t’ont parlé",
+          "points": {
+            "ten": 1,
+            "ludine": 3
+          }
+        },
+        {
+          "text": "Refuser de dire combien tu as payé les courses car tu es « de gauche »",
+          "points": {
+            "hadrien": 3,
+            "ten": 1
+          }
+        },
+        {
+          "text": "Réfléchir à quel tatouage tu pourrais bien te faire sur ce mollet bien vide dis donc",
+          "points": {
+            "ten": 3
+          }
+        },
+        {
+          "text": "Jouer à streetfighter avec le regard bovin",
+          "points": {
+            "louis": 3
+          }
+        },
+        {
+          "text": "Vouloir sortir voir dans le couloir si l'herbe n'y es pas plus verte car tu es folle",
+          "points": {}
+        }
+      ]
+    },
+    {
+      "text": "Tu es affamé·e !! Qu’as tu envie de manger ?",
+      "answers": [
+        {
+          "text": "Tout sauf des produits laitiers, des fruits rouges, des bananes",
+          "points": {
+            "ten": 3
+          }
+        },
+        {
+          "text": "« des légumes »",
+          "points": {
+            "hadrien": 1,
+            "ten": 2,
+            "louis": 1,
+            "ludine": 3
+          }
+        },
+        {
+          "text": "Des ptits wraps",
+          "points": {
+            "hadrien": 1,
+            "ten": 2,
+            "louis": 1,
+            "ludine": 2
+          }
+        },
+        {
+          "text": "Des feuilles de vignes",
+          "points": {
+            "ten": 2,
+            "louis": 1,
+            "ludine": 2
+          }
+        },
+        {
+          "text": "Un gratin de gnocchis",
+          "points": {
+            "hadrien": 2,
+            "ten": 1,
+            "louis": 1
+          }
+        },
+        {
+          "text": "N’importe quoi qui fait plaisir aux autres car tu es un amour",
+          "points": {
+            "hadrien": 2,
+            "ten": 1,
+            "louis": 2
+          }
+        },
+        {
+          "text": "Des croquettes ou du poulet interdit",
+          "points": {}
+        }
+      ]
+    },
+    {
+      "text": "C’est toi qui va faire la cuisine ?",
+      "answers": [
+        {
+          "text": "Oui car tu es un·e vrai·e chef·fe",
+          "points": {
+            "ten": 2,
+            "louis": 3
+          }
+        },
+        {
+          "text": "Oui car tu aimes faire plaisir aux autres",
+          "points": {
+            "hadrien": 2,
+            "ten": 2,
+            "louis": 2
+          }
+        },
+        {
+          "text": "Oui",
+          "points": {
+            "hadrien": 1,
+            "ten": 1,
+            "louis": 1
+          }
+        },
+        {
+          "text": "Pour le bien de toustes, certainement pas",
+          "points": {
+            "ludine": 2
+          }
+        },
+        {
+          "text": "Tu aimerais parfois bien mais tu en es physiquement incapable",
+          "points": {
+            "ludine": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Pendant le repas, où es tu assis·e ?",
+      "answers": [
+        {
+          "text": "- Sur le canapé, dans l’angle, comme une princesse",
+          "points": {
+            "ten": 2,
+            "ludine": 3
+          }
+        },
+        {
+          "text": "Sur le canapé, sur l’accoudoir, comme un valet de princesse",
+          "points": {
+            "hadrien": 1,
+            "louis": 1
+          }
+        },
+        {
+          "text": "Sur la banquette, contre la vitre, comme le palefrenier de la princesse",
+          "points": {
+            "hadrien": 2,
+            "ten": 1
+          }
+        },
+        {
+          "text": "- Sur le sol, en détente, comme Greggy",
+          "points": {
+            "hadrien": 2,
+            "ten": 1,
+            "louis": 2,
+            "ludine": 1
+          }
+        },
+        {
+          "text": "Dans une chambre, loin des gueux",
+          "points": {
+            "causette": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "hadrien": {
+      "title": "TU ES HADRIEN",
+      "description": "Tu es la bonne fée du lundi soir, celui sans lequel tout ne serait que tristesse, désolation et vaisselle sale. Sans toi, tout le monde aurait froid, les coussins ne seraient pas confortables, le volume du film trop fort ou trop bas et le grand écran certainement pas installé. Un jour peut-être tu auras un appartement aussi grand que celui que visite Iris Mittenaere dans l'épisode 7 de la saison 5 de l'agence et deux choses sont sûres : tu auras 3 éviers fonctionnels pour y faire la vaisselle avec tes deux bras et tu y accueilleras avec une générosité sans nom ni faille toustes tes ami·es. Tu as plus d’un tour dans ton ramequin. Bavo Hadrien!!!"
+    },
+    "ten": {
+      "title": "TU ES TEN",
+      "description": "Tu es l'âme du lundi soir, son sel, son piquant. Même si parfois tu t'endors en parlant, les habitants de la villa te pardonnent toujours car il n'est pas tous les jours faciles de rock as you do. Tu manies les feuilles de métal et l’art du hate-watching comme personne et l’Olympe se souviendra longtemps de tes bricks qui tutoyaient leurs cieux. Pendant ton lundi soir idéal, on ferait sûrement des ateliers créatifs en mangeant très bien, ce qui fait de toi mi un elfe, mi un nain, mi un hobbit et c’est aussi rare qu’appréciable. C’est sûrement pour ça que Causette te préfère, et elle a bien raison."
+    },
+    "louis": {
+      "title": "TU ES LOUIS",
+      "description": "Esthète du lundi soir, tu pratiques avec un brio jusqu'ici sans égal la soirée post journée harassante de travail - même si tu ne travailles pas. On te soupçonne de n'avoir jamais réellement trouvé le chemin du local poubelle et tu as tendance à parler tout seul,, mais tes dons en cuisine balayent ces légers inconvénientsinconvénients à ta présence. Excellent à cette discipline, tu connais tous les troubles de l'oralité de tes proches et sais adapter tes plats en conséquence. Notes des professeurs : arrête de boire dans les verres des autres ou tu seras cancel sans appel par la communauté des gens biens."
+    },
+    "causette": {
+      "title": "TU ES CAUSETTE",
+      "description": "Chatte folle d'entre tous les fous, tu es l'une des créatures les plus mignonnes et propres sur elles que la terre ait jamais portées - en sont pour preuve tes chausettes impeccablement blanches chaque jour que Dieu fait se lever sur Saint-Denis. Les ignares que tu daignes tolérer la présence au sein de ton auguste royaume devraient en prendre doublement acte. Tu n'es pas un·e membre du lundi soir car le lundi soir n'existerait pas sans toi, tu ne coches pas les cases car c'est toi qui les traces, bravo Causette et merci d'être toi."
+    },
+    "ludine": {
+      "title": "TU ES LUDINE",
+      "description": "Tu ne fais jamais les courses, ni la cuisine, et il est vrai ma foi que tu ne fais pas souvent non plus la vaisselle. Heureusement pour ton karma et ta vie en communauté, tu es la grande quizzeuze, autodiagnostiquée prêtresse des dilemmes insolubles et de l’animation du lundi soir."
+    }
+  }
+}
