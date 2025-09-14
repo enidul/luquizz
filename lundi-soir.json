@@ -127,13 +127,14 @@
         {
           "text": "Pour le bien de toustes, certainement pas",
           "points": {
-            "ludine": 2
+            "ludine": 2,
+            "cosette"; 1
           }
         },
         {
           "text": "Tu aimerais parfois bien mais tu en es physiquement incapable",
           "points": {
-            "ludine": 1
+            "ludine": 1,
             "cosette": 3
           }
         }
