@@ -33,7 +33,9 @@
         },
         {
           "text": "Vouloir sortir voir dans le couloir si l'herbe n'y es pas plus verte car tu es folle",
-          "points": {}
+          "points": {
+            "cosette": 3
+          }
         }
       ]
     },
@@ -90,7 +92,9 @@
         },
         {
           "text": "Des croquettes ou du poulet interdit",
-          "points": {}
+          "points": {
+            "cosette": 3
+          }
         }
       ]
     },
@@ -124,12 +128,14 @@
           "text": "Pour le bien de toustes, certainement pas",
           "points": {
             "ludine": 2
+            "cosette": 1
           }
         },
         {
           "text": "Tu aimerais parfois bien mais tu en es physiquement incapable",
           "points": {
             "ludine": 1
+            "cosette": 3
           }
         }
       ]
@@ -138,7 +144,7 @@
       "text": "Pendant le repas, où es tu assis·e ?",
       "answers": [
         {
-          "text": "- Sur le canapé, dans l’angle, comme une princesse",
+          "text": "Sur le canapé, dans l’angle, comme une princesse",
           "points": {
             "ten": 2,
             "ludine": 3
@@ -159,7 +165,7 @@
           }
         },
         {
-          "text": "- Sur le sol, en détente, comme Greggy",
+          "text": "Sur le sol, en détente, comme Greggy",
           "points": {
             "hadrien": 2,
             "ten": 1,
@@ -169,7 +175,9 @@
         },
         {
           "text": "Dans une chambre, loin des gueux",
-          "points": {}
+          "points": {
+            "cosette": 3
+          }
         }
       ]
     },
@@ -207,7 +215,9 @@
         },
         {
           "text": "Non, tu préfères le faire tomber par terre #rebelle",
-          "points": {}
+          "points": {
+            "cosette": 3
+          }
         }
       ]
     },
@@ -240,7 +250,9 @@
         },
         {
           "text": "Les Aristochats",
-          "points": {}
+          "points": {
+            "cosette": 3
+          }
         }
       ]
     },
@@ -273,7 +285,9 @@
         },
         {
           "text": "Schizophrène pour le moins",
-          "points": {}
+          "points": {
+            "cosette": 3
+          }
         }
       ]
     },
@@ -306,7 +320,9 @@
         },
         {
           "text": "Tu peux malheureusement pas la faire car tu es trop mignonne endormie sur le ventre de quelqu'un·e #toutcompris",
-          "points": {}
+          "points": {
+            "cosette": 3
+          }
         }
       ]
     },
@@ -350,7 +366,9 @@
         },
         {
           "text": "Le vert épais à poils tout doux - pragmatique",
-          "points": {}
+          "points": {
+            "cosette": 3
+          }
         }
       ]
     },
@@ -383,7 +401,9 @@
         },
         {
           "text": "La ficelle",
-          "points": {}
+          "points": {
+            "cosette": 3
+          }
         }
       ]
     },
@@ -428,7 +448,9 @@
         },
         {
           "text": "Tu comprends pas le jeu",
-          "points": {}
+          "points": {
+            "cosette": 3
+          }
         }
       ]
     },
@@ -473,7 +495,9 @@
         },
         {
           "text": "Le mec qui dort sur la banquette",
-          "points": {}
+          "points": {
+            "cosette": 3
+          }
         }
       ]
     },
@@ -507,7 +531,9 @@
         },
         {
           "text": "Essayé de t'échapper dans le couloir",
-          "points": {}
+          "points": {
+            "cosette": 3
+          }
         }
       ]
     }
