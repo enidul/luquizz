@@ -1,0 +1,537 @@
+{
+  "title": "Quel·le membre du lundi soir es-tu ?",
+  "description": "Indispensable pour découvrir quel·le membre de la SDSitcome sommeille en toi. Propulsé par la grande quizzeuze en chef, qu’il faut couvrir d’or en remerciement.",
+  "questions": [
+    {
+      "text": "On est lundi soir. Tu es plutôt d’humeur à…",
+      "answers": [
+        {
+          "text": "Raconter par le menu ta journée de travail en te plaignant des hommes qui t’ont parlé",
+          "points": {
+            "ten": 1,
+            "ludine": 3
+          }
+        },
+        {
+          "text": "Refuser de dire combien tu as payé les courses car tu es « de gauche »",
+          "points": {
+            "hadrien": 3,
+            "ten": 1
+          }
+        },
+        {
+          "text": "Réfléchir à quel tatouage tu pourrais bien te faire sur ce mollet bien vide dis donc",
+          "points": {
+            "ten": 3
+          }
+        },
+        {
+          "text": "Jouer à streetfighter avec le regard bovin",
+          "points": {
+            "louis": 3
+          }
+        },
+        {
+          "text": "Vouloir sortir voir dans le couloir si l'herbe n'y es pas plus verte car tu es folle",
+          "points": {}
+        }
+      ]
+    },
+    {
+      "text": "Tu es affamé·e !! Qu’as tu envie de manger ?",
+      "answers": [
+        {
+          "text": "Tout sauf des produits laitiers, des fruits rouges, des bananes",
+          "points": {
+            "ten": 3
+          }
+        },
+        {
+          "text": "« des légumes »",
+          "points": {
+            "hadrien": 1,
+            "ten": 2,
+            "louis": 1,
+            "ludine": 3
+          }
+        },
+        {
+          "text": "Des ptits wraps",
+          "points": {
+            "hadrien": 1,
+            "ten": 2,
+            "louis": 1,
+            "ludine": 2
+          }
+        },
+        {
+          "text": "Des feuilles de vignes",
+          "points": {
+            "ten": 2,
+            "louis": 1,
+            "ludine": 2
+          }
+        },
+        {
+          "text": "Un gratin de gnocchis",
+          "points": {
+            "hadrien": 2,
+            "ten": 1,
+            "louis": 1
+          }
+        },
+        {
+          "text": "N’importe quoi qui fait plaisir aux autres car tu es un amour",
+          "points": {
+            "hadrien": 2,
+            "ten": 1,
+            "louis": 2
+          }
+        },
+        {
+          "text": "Des croquettes ou du poulet interdit",
+          "points": {}
+        }
+      ]
+    },
+    {
+      "text": "C’est toi qui va faire la cuisine ?",
+      "answers": [
+        {
+          "text": "Oui car tu es un·e vrai·e chef·fe",
+          "points": {
+            "ten": 2,
+            "louis": 3
+          }
+        },
+        {
+          "text": "Oui car tu aimes faire plaisir aux autres",
+          "points": {
+            "hadrien": 2,
+            "ten": 2,
+            "louis": 2
+          }
+        },
+        {
+          "text": "Oui",
+          "points": {
+            "hadrien": 1,
+            "ten": 1,
+            "louis": 1
+          }
+        },
+        {
+          "text": "Pour le bien de toustes, certainement pas",
+          "points": {
+            "ludine": 2
+          }
+        },
+        {
+          "text": "Tu aimerais parfois bien mais tu en es physiquement incapable",
+          "points": {
+            "ludine": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Pendant le repas, où es tu assis·e ?",
+      "answers": [
+        {
+          "text": "- Sur le canapé, dans l’angle, comme une princesse",
+          "points": {
+            "ten": 2,
+            "ludine": 3
+          }
+        },
+        {
+          "text": "Sur le canapé, sur l’accoudoir, comme un valet de princesse",
+          "points": {
+            "hadrien": 1,
+            "louis": 1
+          }
+        },
+        {
+          "text": "Sur la banquette, contre la vitre, comme le palefrenier de la princesse",
+          "points": {
+            "hadrien": 2,
+            "ten": 1
+          }
+        },
+        {
+          "text": "- Sur le sol, en détente, comme Greggy",
+          "points": {
+            "hadrien": 2,
+            "ten": 1,
+            "louis": 2,
+            "ludine": 1
+          }
+        },
+        {
+          "text": "Dans une chambre, loin des gueux",
+          "points": {}
+        }
+      ]
+    },
+    {
+      "text": "Question piège : Bois-tu dans le verre des autres quand le tien est vide ?",
+      "answers": [
+        {
+          "text": "Non car tu ne fais pas reposer la charge mentale de l’eau sur taon partenaire #àmarier",
+          "points": {
+            "hadrien": 3,
+            "ten": 3,
+            "ludine": 2
+          }
+        },
+        {
+          "text": "Non car tu n’es pas dégueulasse ??? #bave",
+          "points": {
+            "ten": 3,
+            "ludine": 2
+          }
+        },
+        {
+          "text": "Non car tu es angoissé·e de l’eau et que tu ne viderais jamais les ressources aquatiques de quelqu’un·e #guerredeleau",
+          "points": {
+            "hadrien": 1,
+            "ten": 1,
+            "ludine": 3
+          }
+        },
+        {
+          "text": "Oui car tu es Louis #louis",
+          "points": {
+            "louis": 3
+          }
+        },
+        {
+          "text": "Non, tu préfères le faire tomber par terre #rebelle",
+          "points": {}
+        }
+      ]
+    },
+    {
+      "text": "Ton film préféré du lundi soir…",
+      "answers": [
+        {
+          "text": "Orgueil et préjugés",
+          "points": {
+            "ten": 3
+          }
+        },
+        {
+          "text": "Quatre mariages et un enterrement",
+          "points": {
+            "hadrien": 3
+          }
+        },
+        {
+          "text": "Dirty Dancing",
+          "points": {
+            "ludine": 3
+          }
+        },
+        {
+          "text": "Street Fighter",
+          "points": {
+            "louis": 3
+          }
+        },
+        {
+          "text": "Les Aristochats",
+          "points": {}
+        }
+      ]
+    },
+    {
+      "text": "Quel est ton rapport à Causette ? :",
+      "answers": [
+        {
+          "text": "Tu dis qu’elle est folle mais tu l’aimes",
+          "points": {}
+        },
+        {
+          "text": "Au début c’était compliqué mais depuis qu’elle a été sur tes genoux une fois quand tu télétravaillais comme un petit bébé chat trop mignon tu l’adores même si une fois elle t’a attaquée quand tu passais dans le couloir et qu’elle était sur l’arbre à chat et tu as eu du mal à t’en remettre mais vous avez surmonté cette épreuve ensemble et maintenant tu acceptes même qu’elle dorme avec toi de temps en temps et tu ne cries même plus si fort que ça quand elle plante ses griffes dans tes cuisses alors que tu portes ton bas de pyjama tout fin et que ça te fait mal",
+          "points": {
+            "ludine": 3
+          }
+        },
+        {
+          "text": "Elle adore se mettre sur ton ventre car tu es lea + chanceuxse d’entre toustes",
+          "points": {
+            "hadrien": 2,
+            "ten": 3,
+            "ludine": 1
+          }
+        },
+        {
+          "text": "Tu es son père",
+          "points": {
+            "hadrien": 3
+          }
+        },
+        {
+          "text": "Schizophrène pour le moins",
+          "points": {}
+        }
+      ]
+    },
+    {
+      "text": "Le repas est fini, il est l’heure de faire la vaisselle… que fais tu ?",
+      "answers": [
+        {
+          "text": "Tu la fais direct car tu aimes ça #chelou",
+          "points": {
+            "hadrien": 3
+          }
+        },
+        {
+          "text": "Tu  aimerais bien faire la vaisselle mais tu peux pas car Causette est allongée sur toi #dommage",
+          "points": {
+            "ludine": 3
+          }
+        },
+        {
+          "text": "Tu fais la vaisselle pour pas laisser le fou de la vaisselle la faire seul #truelove",
+          "points": {
+            "ten": 3
+          }
+        },
+        {
+          "text": "Tu embrouilles l’amour de ta vie car iel ne va pas faire la vaisselle car Causette dort sur son ventre #tyran",
+          "points": {
+            "louis": 3
+          }
+        },
+        {
+          "text": "Tu peux malheureusement pas la faire car tu es trop mignonne endormie sur le ventre de quelqu'un·e #toutcompris",
+          "points": {}
+        }
+      ]
+    },
+    {
+      "text": "Ton plaid préféré… :",
+      "answers": [
+        {
+          "text": "Le vert sur lequel se met Causette - cat lover",
+          "points": {
+            "hadrien": 1,
+            "ten": 1,
+            "louis": 1,
+            "ludine": 2
+          }
+        },
+        {
+          "text": "le vert sur lequel se met pas Causette - aigri",
+          "points": {
+            "hadrien": 1,
+            "ten": 1,
+            "louis": 1,
+            "ludine": 1
+          }
+        },
+        {
+          "text": "Le blanc All Cafards Are Bastards - politique",
+          "points": {
+            "hadrien": 1,
+            "ten": 1,
+            "louis": 1
+          }
+        },
+        {
+          "text": "Le bleu tout fin IKEA - chelou",
+          "points": {
+            "hadrien": 1,
+            "ten": 1,
+            "louis": 1,
+            "ludine": 1
+          }
+        },
+        {
+          "text": "Le vert épais à poils tout doux - pragmatique",
+          "points": {}
+        }
+      ]
+    },
+    {
+      "text": "Quel est ton jeu préféré du lundi soir ?",
+      "answers": [
+        {
+          "text": "Minecraft",
+          "points": {
+            "ten": 2
+          }
+        },
+        {
+          "text": "GTA",
+          "points": {
+            "hadrien": 2
+          }
+        },
+        {
+          "text": "Streetfighter",
+          "points": {
+            "louis": 2
+          }
+        },
+        {
+          "text": "« Tu préfères »",
+          "points": {
+            "ludine": 2
+          }
+        },
+        {
+          "text": "La ficelle",
+          "points": {}
+        }
+      ]
+    },
+    {
+      "text": "Ton « tu préfères… » préféré :",
+      "answers": [
+        {
+          "text": "Être en colloc avec Tanguy ou vivre 3 mois dans un sous-marin",
+          "points": {
+            "hadrien": 1,
+            "ten": 1,
+            "louis": 1,
+            "ludine": 1
+          }
+        },
+        {
+          "text": "Boire un verre de bave de Tanguy ou vivre 1 mois dans un sous-marin",
+          "points": {
+            "hadrien": 1,
+            "ten": 1,
+            "louis": 1,
+            "ludine": 1
+          }
+        },
+        {
+          "text": "Avoir un enfant en garde partagée avec Tanguy ou vivre 6 ans dans un sous-marin avec Tanguy",
+          "points": {
+            "hadrien": 1,
+            "ten": 1,
+            "louis": 1,
+            "ludine": 1
+          }
+        },
+        {
+          "text": "Être en colloc dans un sous marin avec Tanguy ou en colloc avec un sous-marin dans Ulysse",
+          "points": {
+            "hadrien": 1,
+            "ten": 1,
+            "louis": 1,
+            "ludine": 1
+          }
+        },
+        {
+          "text": "Tu comprends pas le jeu",
+          "points": {}
+        }
+      ]
+    },
+    {
+      "text": "Ton +1 du lundi soir préféré… :",
+      "answers": [
+        {
+          "text": "Grégoire Lhémery",
+          "points": {
+            "hadrien": 1,
+            "ten": 1,
+            "louis": 1,
+            "ludine": 1
+          }
+        },
+        {
+          "text": "Greggy",
+          "points": {
+            "hadrien": 1,
+            "ten": 1,
+            "louis": 1,
+            "ludine": 1
+          }
+        },
+        {
+          "text": "Gregzy Music",
+          "points": {
+            "hadrien": 1,
+            "ten": 1,
+            "louis": 1,
+            "ludine": 1
+          }
+        },
+        {
+          "text": "DJ Glucose",
+          "points": {
+            "hadrien": 1,
+            "ten": 1,
+            "louis": 1,
+            "ludine": 1
+          }
+        },
+        {
+          "text": "Le mec qui dort sur la banquette",
+          "points": {}
+        }
+      ]
+    },
+    {
+      "text": "Dernière question : pour les courses, tu as…",
+      "answers": [
+        {
+          "text": "Pris ton tote bag et bravé les embrumes, les flammes et le sommeil pour aller les faire car tu es parfait",
+          "points": {
+            "hadrien": 2
+          }
+        },
+        {
+          "text": "Donné ta carte mais elle fonctionnait pas car tu es malin",
+          "points": {
+            "louis": 2
+          }
+        },
+        {
+          "text": "Acheté des feuilles de vignes car tu as du goût",
+          "points": {
+            "ten": 2,
+            "ludine": 1
+          }
+        },
+        {
+          "text": "Fais des virements a posteriori car tu es freelance",
+          "points": {
+            "ludine": 2
+          }
+        },
+        {
+          "text": "Essayé de t'échapper dans le couloir",
+          "points": {}
+        }
+      ]
+    }
+  ],
+  "results": {
+    "hadrien": {
+      "title": "TU ES HADRIEN",
+      "description": "Tu es la bonne fée du lundi soir, celui sans lequel tout ne serait que tristesse, désolation et vaisselle sale. Sans toi, tout le monde aurait froid, les coussins ne seraient pas confortables, le volume du film trop fort ou trop bas et le grand écran certainement pas installé. Un jour peut-être tu auras un appartement aussi grand que celui que visite Iris Mittenaere dans l'épisode 7 de la saison 5 de l'agence et deux choses sont sûres : tu auras 3 éviers fonctionnels pour y faire la vaisselle avec tes deux bras et tu y accueilleras avec une générosité sans nom ni faille toustes tes ami·es. Tu as plus d’un tour dans ton ramequin. Bavo Hadrien!!!"
+    },
+    "ten": {
+      "title": "TU ES TEN",
+      "description": "Tu es l'âme du lundi soir, son sel, son piquant. Même si parfois tu t'endors en parlant, les habitants de la villa te pardonnent toujours car il n'est pas tous les jours faciles de rock as you do. Tu manies les feuilles de métal et l’art du hate-watching comme personne et l’Olympe se souviendra longtemps de tes bricks qui tutoyaient leurs cieux. Pendant ton lundi soir idéal, on ferait sûrement des ateliers créatifs en mangeant très bien, ce qui fait de toi mi un elfe, mi un nain, mi un hobbit et c’est aussi rare qu’appréciable. C’est sûrement pour ça que Causette te préfère, et elle a bien raison."
+    },
+    "louis": {
+      "title": "TU ES LOUIS",
+      "description": "Esthète du lundi soir, tu pratiques avec un brio jusqu'ici sans égal la soirée post journée harassante de travail - même si tu ne travailles pas. On te soupçonne de n'avoir jamais réellement trouvé le chemin du local poubelle et tu as tendance à parler tout seul,, mais tes dons en cuisine balayent ces légers inconvénientsinconvénients à ta présence. Excellent à cette discipline, tu connais tous les troubles de l'oralité de tes proches et sais adapter tes plats en conséquence. Notes des professeurs : arrête de boire dans les verres des autres ou tu seras cancel sans appel par la communauté des gens biens."
+    },
+    "cosette": {
+      "title": "TU ES COSETTE",
+      "description": "Chatte folle d'entre tous les fous, tu es l'une des créatures les plus mignonnes et propres sur elles que la terre ait jamais portées - en sont pour preuve tes chausettes impeccablement blanches chaque jour que Dieu fait se lever sur Saint-Denis. Les ignares que tu daignes tolérer la présence au sein de ton auguste royaume devraient en prendre doublement acte. Tu n'es pas un·e membre du lundi soir car le lundi soir n'existerait pas sans toi, tu ne coches pas les cases car c'est toi qui les traces, bravo Cosette et merci d'être toi."
+    },
+    "ludine": {
+      "title": "TU ES LUDINE",
+      "description": "Tu ne fais jamais les courses, ni la cuisine, et il est vrai ma foi que tu ne fais pas souvent non plus la vaisselle. Heureusement pour ton karma et ta vie en communauté, tu es la grande quizzeuze, autodiagnostiquée prêtresse des dilemmes insolubles et de l’animation du lundi soir."
+    }
+  }
+}
