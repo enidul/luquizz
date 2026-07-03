@@ -1,0 +1,655 @@
+{
+  "title": "Hadriquizz : Quel panneau de signalisation d'Hadrien es-tu ?",
+  "description": "En l'honneur et la gloire des 26 ans d'Hadrien, il te sera revele a l'issue de ce hadriquizz de quel panneau de signalisation de sa collection tu emanes l'energie. \nAttention, il y a 20 questions : c'est long mais pas trop non plus. \nNota bene que : je n'ai pas pu mettre d'accent sur les a, les e, ni aucune autre lettre qui en a parfois besoin, c'est indÃ©pendant de ma volontÃ© et Ã§a sera ainsi pour ce soir.\nBon dÃ©chiffrage et bon Hadriquizz...",
+  "questions": [
+    {
+      "text": "Quelle est lâ€™activite que tu es lea moins susceptible de faire ?",
+      "answers": [
+        {
+          "text": "La cuisine",
+          "points": {
+            "Stationner": 1
+          }
+        },
+        {
+          "text": "La vaisselle",
+          "points": {}
+        },
+        {
+          "text": "Cracher du feu",
+          "points": {
+            "Pipi": 1
+          }
+        },
+        {
+          "text": "Du metal a repousser",
+          "points": {
+            "Scooter": 1
+          }
+        },
+        {
+          "text": "Conduire un poids lourd",
+          "points": {
+            "Cosette": 1
+          }
+        },
+        {
+          "text": "Organiser un festival",
+          "points": {
+            "Scooter": 1
+          }
+        },
+        {
+          "text": "Pipi sur le sol",
+          "points": {}
+        },
+        {
+          "text": "Piller les reserves dâ€™eau de quelquâ€™un.e",
+          "points": {
+            "Pipi": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Combien dâ€™Ã¢nes aspires-tu a elever plus tard ?",
+      "answers": [
+        {
+          "text": "Un.e (Princesse Sarane)",
+          "points": {
+            "Stationner": 1
+          }
+        },
+        {
+          "text": "Deux (Cellophane et Sarbacane)",
+          "points": {}
+        },
+        {
+          "text": "Trois (Anakin, Hanesolo et Obiane)",
+          "points": {
+            "Pipi": 1
+          }
+        },
+        {
+          "text": "Zero car tu preferes les oiseaux (melomane ^^)",
+          "points": {
+            "Scooter": 1,
+            "Cosette": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Quelle est ta photo prefÃ©ree de lâ€™era modele-photo de Ten ?",
+      "answers": [
+        {
+          "text": "Celle ou Ten est sur le pont des arts avec les hirondelles",
+          "points": {
+            "Stationner": 1
+          }
+        },
+        {
+          "text": "Celle ou Ten drague son collÃ¨gue en portant nonchalamment le tote bag Â«Â Parisien, ParisienneÂ Â»",
+          "points": {}
+        },
+        {
+          "text": "Celle ou Ten fait semblant dâ€™avoir froid dans un parc",
+          "points": {
+            "Pipi": 1
+          }
+        },
+        {
+          "text": "Celle ou Ten boit un Starbuck en regardant par la vitre avec des lumieres de phares",
+          "points": {
+            "Scooter": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Quel est ton rapport aux cafards ?",
+      "answers": [
+        {
+          "text": "Artistique : tu en as dessine sur un plaid",
+          "points": {
+            "Stationner": 1
+          }
+        },
+        {
+          "text": "Genereux : tu leur a louÃ© quelques mois un petit studio dans le 18e pour quâ€™ils soient bien au chaud",
+          "points": {}
+        },
+        {
+          "text": "Predateur : Tu les captures dans des mugs quand tu en trouves",
+          "points": {
+            "Scooter": 1
+          }
+        },
+        {
+          "text": "Rival : tu les hais car ils mangeaient dans ta gamelle",
+          "points": {
+            "Cosette": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "A fuck-mary-kill, quel trinome choisis-tu de bon coeur ?",
+      "answers": [
+        {
+          "text": "Waxx, Mcfly, Ross Geller",
+          "points": {
+            "Stationner": 1,
+            "Scooter": 1
+          }
+        },
+        {
+          "text": "Grishnakh, Sauron, Gandalf",
+          "points": {
+            "Cosette": 1
+          }
+        },
+        {
+          "text": "Martin de lâ€™agence, Maxence, Petit Biscuit le DJ",
+          "points": {
+            "Pipi": 1
+          }
+        },
+        {
+          "text": "Lâ€™ane de Shrek, Shrek, AmÃ©lie Oudea-Castera dans la vidÃ©o oÃ¹ elle se baigne dans la Seine",
+          "points": {}
+        }
+      ]
+    },
+    {
+      "text": "Quel.le membre de la famille d'Hadrien a ta preference (entre nous ;) ) ?",
+      "answers": [
+        {
+          "text": "Jerome son pere",
+          "points": {
+            "Stationner": 1
+          }
+        },
+        {
+          "text": "Claire sa mere",
+          "points": {
+            "Pipi": 1
+          }
+        },
+        {
+          "text": "Adele sa soeur",
+          "points": {
+            "Scooter": 1
+          }
+        },
+        {
+          "text": "Joseph son frere",
+          "points": {}
+        },
+        {
+          "text": "Leo son presque frere",
+          "points": {
+            "Cosette": 1
+          }
+        },
+        {
+          "text": "Andorre son chien idiot",
+          "points": {}
+        }
+      ]
+    },
+    {
+      "text": "Maintenant, quel.le membre de sa *vraie* famille a ta preference ?",
+      "answers": [
+        {
+          "text": "Ten son partenaire de vie",
+          "points": {
+            "Stationner": 1,
+            "Scooter": 1
+          }
+        },
+        {
+          "text": "Louis son ex colloc",
+          "points": {
+            "Pipi": 1
+          }
+        },
+        {
+          "text": "Ludine sa preferee",
+          "points": {
+            "Stationner": 1,
+            "Scooter": 1,
+            "Cosette": 1
+          }
+        },
+        {
+          "text": "Orel son maitre a penser",
+          "points": {
+            "Stationner": 1,
+            "Scooter": 1
+          }
+        },
+        {
+          "text": "Cosette son maitre tout court",
+          "points": {
+            "Cosette": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Câ€™est samedi apres-midi, tu te lirais bien un petit livre. Quel ouvrage choisis-tu dans ta PAL (pile a lire) ?",
+      "answers": [
+        {
+          "text": "Le Hobbit (J.R.R Tolkien, 1937) ou autre livre de SF/fantasy/whatever mais il y a des armures",
+          "points": {
+            "Stationner": 2,
+            "Pipi": 1
+          }
+        },
+        {
+          "text": "La mer a ses raisons (Romuald Delacour, ed. Les mots et le reste, 2022), recit de navigation et chef d'oeuvre contemporain",
+          "points": {}
+        },
+        {
+          "text": "Le mythe de la virilitÃ© (Olivia Gazale, ed Agora, 2017) ou autre essai feministe car tu travailles activement a ta deconstruction mÃªme si bien sÃ»r c'est un chemin",
+          "points": {
+            "Pipi": 1
+          }
+        },
+        {
+          "text": "Lâ€™or des jours (Romuald Delacour, ed. Les mots et le reste, 2026) car decidÃ©ment tu adores cet auteur",
+          "points": {
+            "Stationner": 1,
+            "Pipi": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Quelle LV2 maitrise tu le mieux ?",
+      "answers": [
+        {
+          "text": "Lâ€™anglais",
+          "points": {}
+        },
+        {
+          "text": "The English langage",
+          "points": {
+            "Pipi": 1,
+            "Cosette": 1
+          }
+        },
+        {
+          "text": "Le franÃ§ais",
+          "points": {
+            "Stationner": 1
+          }
+        },
+        {
+          "text": "Le norvegien",
+          "points": {
+            "Scooter": 1
+          }
+        },
+        {
+          "text": "L'esperanto",
+          "points": {
+            "Stationner": 1,
+            "Pipi": 1,
+            "Scooter": 1,
+            "Cosette": 2
+          }
+        }
+      ]
+    },
+    {
+      "text": "Si tu etais contraint.e a un exil temporaire, ou prÃ©fÃ¨rerais tu vivre pendant 6 mois ?",
+      "answers": [
+        {
+          "text": "Dans un van pour 4 personnes avec toute ta famille MAIS en Ecosse terre de lÃ©gendes",
+          "points": {
+            "Stationner": 1
+          }
+        },
+        {
+          "text": "A Penne-d'Agenais, chambre litteraire",
+          "points": {}
+        },
+        {
+          "text": "Tant que tu es avec Ten, tu pourrais aller nâ€™importe ou",
+          "points": {
+            "Scooter": 1
+          }
+        },
+        {
+          "text": "Dans un sous marin avec quelquâ€™un que tu aimes bof par exemple",
+          "points": {
+            "Cosette": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Quel est ton fruit favori ?",
+      "answers": [
+        {
+          "text": "Le litchi, car tu n'es pas comme les autres",
+          "points": {
+            "Stationner": 1
+          }
+        },
+        {
+          "text": "La banane ou les fruits rouges, car tu n'es pas Ten",
+          "points": {}
+        },
+        {
+          "text": "Les croquettes, car tu es un un peu special.e",
+          "points": {
+            "Pipi": 1
+          }
+        },
+        {
+          "text": "La mangue, car tu ne savais pas qu'un fruit pouvait avoir un tel gout",
+          "points": {
+            "Cosette": 2
+          }
+        }
+      ]
+    },
+    {
+      "text": "Ton jeu video favori ?",
+      "answers": [
+        {
+          "text": "Elden ring",
+          "points": {}
+        },
+        {
+          "text": "Minecraft",
+          "points": {
+            "Stationner": 1
+          }
+        },
+        {
+          "text": "GTA",
+          "points": {
+            "Scooter": 1
+          }
+        },
+        {
+          "text": "Fifa",
+          "points": {}
+        },
+        {
+          "text": "Animal crossing",
+          "points": {
+            "Scooter": 1
+          }
+        },
+        {
+          "text": "Te cacher sous un plaid",
+          "points": {
+            "Cosette": 2
+          }
+        }
+      ]
+    },
+    {
+      "text": "Il faut faire un trajet en voiture. Tu :",
+      "answers": [
+        {
+          "text": "Veux conduire",
+          "points": {
+            "Stationner": 1
+          }
+        },
+        {
+          "text": "Proposes poliment de conduire la voiture, enfin si personne dâ€™autre veut le faire, toi Ã§a te fait plaisir mais si Ã§a fait plus plaisir a quelquâ€™un.e dâ€™autre Ã§a te fait plaisir de laisser la place aussi",
+          "points": {
+            "Pipi": 1
+          }
+        },
+        {
+          "text": "Pleures pour ne pas conduire",
+          "points": {}
+        },
+        {
+          "text": "Fais un AVC",
+          "points": {
+            "Cosette": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Si tu avais ete chez les scouts unitaires de France, quel surnom tâ€™aurais ete attribue ?",
+      "answers": [
+        {
+          "text": "\"Aigle voltigeur\"Â car tu es habile",
+          "points": {}
+        },
+        {
+          "text": "\"Buffle bonimenteur\" car tu es fort.e",
+          "points": {
+            "Pipi": 1
+          }
+        },
+        {
+          "text": "\"Sherkan griffes dâ€™acier\"Â car tu as des gros doigts",
+          "points": {
+            "Cosette": 1
+          }
+        },
+        {
+          "text": "\"Le nain tracassin\" car tu es petit.e",
+          "points": {}
+        }
+      ]
+    },
+    {
+      "text": "La vaisselle sale sâ€™accumule dans lâ€™evierâ€¦ Pas cool. Tu :",
+      "answers": [
+        {
+          "text": "La fais avec le sourire - fee du logis",
+          "points": {}
+        },
+        {
+          "text": "La fais avec ta langue - kiffeur.euse",
+          "points": {
+            "Cosette": 1
+          }
+        },
+        {
+          "text": "Meurs - Ludine",
+          "points": {}
+        },
+        {
+          "text": "Nâ€™aurais jamais pu laisser cette situation se produire car tu laves toujours ton verre immÃ©diatement aprÃ¨s avoir bu dedans en fait - points sur les i et barres aux t",
+          "points": {
+            "Stationner": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "La personne avec laquelle tu es lea moins susceptible de faire un date...",
+      "answers": [
+        {
+          "text": "Louis car il volerait ton eau",
+          "points": {
+            "Scooter": 1
+          }
+        },
+        {
+          "text": "Un sac plastique car Ã§a te fait peur",
+          "points": {
+            "Cosette": 1
+          }
+        },
+        {
+          "text": "Ten deguise en policier car acab",
+          "points": {
+            "Pipi": 1
+          }
+        },
+        {
+          "text": "Quelquâ€™un qui vivrait dans un sous marin car c'est bizarre",
+          "points": {}
+        }
+      ]
+    },
+    {
+      "text": "La fÃªte de lâ€™humaâ€¦",
+      "answers": [
+        {
+          "text": "Tu y vas",
+          "points": {
+            "Stationner": 1
+          }
+        },
+        {
+          "text": "Tu y vas les 3 jours",
+          "points": {
+            "Pipi": 1
+          }
+        },
+        {
+          "text": "Tu y vas et tu regrettes",
+          "points": {}
+        },
+        {
+          "text": "Tu vas a Compiegnes",
+          "points": {
+            "Scooter": 1
+          }
+        },
+        {
+          "text": "Tu preferes dormir sur une table",
+          "points": {
+            "Cosette": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Si tu devais choisir une de ces citations comme epitaphe, vers laquelle te tournerais-tu ?",
+      "answers": [
+        {
+          "text": "\"Me critiquez pas, c'est mes a cause de mes troubles mentaux.\" - Ten Delacour",
+          "points": {
+            "Stationner": 1
+          }
+        },
+        {
+          "text": "\"Si on voit un cul flottant, c'est que je me suis noye.\" - Ten Delacour",
+          "points": {}
+        },
+        {
+          "text": "\"Les trois moustiquaires sont de retour.\" - Chaima Ledenmat",
+          "points": {
+            "Pipi": 1
+          }
+        },
+        {
+          "text": "\"On risque de se voir qu'en coupe vent.\" - GÃ©niÂ·e inconnuÂ·e",
+          "points": {
+            "Scooter": 1
+          }
+        },
+        {
+          "text": "\"Lache ton tel bro.\" - Hadrien Penot-Civel",
+          "points": {
+            "Stationner": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Dirais-tu de toi meme que tu es unÂ·e \"cool kid\" ?",
+      "answers": [
+        {
+          "text": "Assurement",
+          "points": {}
+        },
+        {
+          "text": "Oui",
+          "points": {
+            "Stationner": 1
+          }
+        },
+        {
+          "text": "Non",
+          "points": {
+            "Pipi": 1
+          }
+        },
+        {
+          "text": "Je ne parle pas anglais",
+          "points": {}
+        },
+        {
+          "text": "Je ne sais pas parler",
+          "points": {
+            "Cosette": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Enfin, quelle energie ton aura give-t-elle SELON TOI ?",
+      "answers": [
+        {
+          "text": "Un scooter des neiges",
+          "points": {
+            "Scooter": 12
+          }
+        },
+        {
+          "text": "Une rue du 13e arrondissement",
+          "points": {}
+        },
+        {
+          "text": "Un chien qui urine",
+          "points": {
+            "Pipi": 10
+          }
+        },
+        {
+          "text": "Une prohibition de parcage",
+          "points": {
+            "Stationner": 12
+          }
+        },
+        {
+          "text": "La ville de Menton",
+          "points": {
+            "Cosette": 12
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "Stationner": {
+      "title": "Tu es le panneau \"Interdit de stationner\"",
+      "description": "Avec toi on ne sait jamais a quoi sâ€™attendre : presence d'une intersection, d'un virage, d'un passage a niveau ou du sommet d'une cote, ton enonce sommaire laisse libre cours a lâ€™imagination et sa course debridee. Mais si les paroles nâ€™engagent que ceux qui les ecoutent, fais tout de mÃªme attention a toi : transforme en table par la famille Penot-Civel, on aime a se reposer sur ta gueule, voir a y mettre des trucs lourds. Souviens toi de qui tu es et stand up for yourself avant de ployer sous la charge."
+    },
+    "Esperance": {
+      "title": "Tu es le panneau \"Rue de lâ€™Esperance\"",
+      "description": "Qui se nourrit dâ€™espoir... risque de mourir de faim. Sauvagement arrache a ton mur natal dans une rue ou Hadrien a laisse sa marque, tu gardes en ta chair la mÃ©moire indelebile de cet acte peu citoyen qui a non seulement prive de nombreuses ames egarees d'une indication salvatrice, mais t'as egalement retire ta raison d'etre... Aujourd'hui relegue au dessus d'une hotte, tu aspires (comme la hotte) a plus pour toi-mÃªme. Comme dit le poete, 'Lâ€™espoir fait vivre.\", et il est plus que jamais bon de s'en souvenir en ces temps troublÃ©s."
+    },
+    "Pipi": {
+      "title": "Tu es le panneau \"Interdit de faire pipi\"",
+      "description": "Parfois il est necessaire de rappeler les rÃ¨gles essentielles du savoir vivre, et Ã§a tombe bien car tu es la. Si lâ€™on devait resumer ta vie en un mantra, ce serait sans doute aucun \"Jâ€™accueille ce qui est, sans rÃ©sistance.â€. Mais si la dinde est tolÃ©rante, elle deteste les farceurs. Ne relaies pas des dogmes et autres principes hygiÃ©nistes arbitraires sans les comprendre, car c'est ainsi qu'on devient le soldat du fascisme. LÃ¢che un peu de lest au monde et ne t'inquiÃ¨te pas, notre coeur te reste ouvert."
+    },
+    "Scooter": {
+      "title": "Tu es le panneau \"Scooterloype\"",
+      "description": "Au premier abord on ne sait pas bien ce que tu signifies, et il faut bien avouer que toi mÃªme tu as parfois eu des doutes. Mais comme l'ont dit, en leurs temps respectifs, Saint Exupery et Papa Situations : Â«Â On ne voit bien qu'avec le coeur, l'essentiel est invisible pour les yeux.Â Â» et ainsi, ce n'est pas si grave. Tu viens de terres froides et lointaines, tu as ete transporte par les mers gelees pour finir sur un frigo, et cela pourrait sembler caustique si Ã§a n'etait pas absolument romanesque. Ton destin est grand !"
+    },
+    "Cosette": {
+      "title": "Miaou, tu es Cosette",
+      "description": "Tu nâ€™es pas un panneau, et tu ne tombes jamais dedans non plus (mais parfois tu les fais tomber). Agile et gracieuse, tu sais slalomer entre les obstacles que la vie te prÃ©sente, et ce sans signalisation. Comme toujours tu es la reine de coeur des chats et des notres, ne change rien bellacita."
+    }
+  },
+  "image": "https://gist.github.com/user-attachments/assets/294bbde6-79a8-4c6e-8257-01c93652812f"
+}
