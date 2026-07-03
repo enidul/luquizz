@@ -1,9 +1,9 @@
 {
   "title": "Hadriquizz : Quel panneau de signalisation d'Hadrien es-tu ?",
-  "description": "En l'honneur et la gloire des 26 ans d'Hadrien, il te sera rÃ©vÃ©lÃ© Ã  l'issue de ce hadriquizz de quel panneau de signalisation de sa collection tu Ã©manes l'Ã©nergie. Attention, il y a 20 questions : c'est long mais pas trop non plus. Bon Hadriquizz...",
+  "description": "En l'honneur et la gloire des 26 ans d'Hadrien, il te sera revele Ã  l'issue de ce hadriquizz de quel panneau de signalisation de sa collection tu emanes l'Ã©nergie. \nAttention, il y a 20 questions : c'est long mais pas trop non plus. \nNota bene que : je n'ai pas pu mettre d'accent sur les a, les e, ni aucune autre lettre qui en a parfois besoin, c'est indÃ©pendant de ma volontÃ© et Ã§a sera ainsi.\nBon dÃ©chiffrage et bon Hadriquizz...",
   "questions": [
     {
-      "text": "Quelle est lâ€™activitÃ© que tu es lea moins susceptible de faire ?",
+      "text": "Quelle est lâ€™activite que tu es lea moins susceptible de faire ?",
       "answers": [
         {
           "text": "La cuisine",
@@ -13,9 +13,7 @@
         },
         {
           "text": "La vaisselle",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "points": {}
         },
         {
           "text": "Cracher du feu",
@@ -24,7 +22,7 @@
           }
         },
         {
-          "text": "Du mÃ©tal Ã  repousser",
+          "text": "Du metal Ã  repousser",
           "points": {
             "Scooter": 1
           }
@@ -43,12 +41,10 @@
         },
         {
           "text": "Pipi sur le sol",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "points": {}
         },
         {
-          "text": "Piller les rÃ©serves dâ€™eau de quelquâ€™unÂ·e",
+          "text": "Piller les reserves dâ€™eau de quelquâ€™un.e",
           "points": {
             "Pipi": 1
           }
@@ -59,25 +55,23 @@
       "text": "Combien dâ€™Ã¢nes aspires-tu Ã  Ã©lever plus tard ?",
       "answers": [
         {
-          "text": "UnÂ·e (Princesse SarÃ¢ne)",
+          "text": "Un.e (Princesse Sarane)",
           "points": {
             "Stationner": 1
           }
         },
         {
-          "text": "Deux (CellophÃ¢ne et SarbacÃ¢ne)",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "text": "Deux (Cellophane et Sarbacane)",
+          "points": {}
         },
         {
-          "text": "Trois (Ã‚nakin, HÃ¢nesolo et ObiÃ¢ne)",
+          "text": "Trois (Anakin, Hanesolo et Obiane)",
           "points": {
             "Pipi": 1
           }
         },
         {
-          "text": "ZÃ©ro car tu prÃ©fÃ¨res les oiseaux (mÃ©lomÃ¢ne ^^)",
+          "text": "Zero car tu preferes les oiseaux (melomane ^^)",
           "points": {
             "Scooter": 1,
             "Cosette": 1
@@ -86,28 +80,26 @@
       ]
     },
     {
-      "text": "Quelle est ta photo prÃ©fÃ©rÃ©e de lâ€™era modÃ¨le-photo de Ten ?",
+      "text": "Quelle est ta photo prefÃ©ree de lâ€™era modele-photo de Ten ?",
       "answers": [
         {
-          "text": "Celle oÃ¹ Ten est sur le pont des arts avec les hirondelles",
+          "text": "Celle ou Ten est sur le pont des arts avec les hirondelles",
           "points": {
             "Stationner": 1
           }
         },
         {
-          "text": "Celle oÃ¹ Ten drague son collÃ¨gue en portant nonchalamment le tote bag Â«Â Parisien, ParisienneÂ Â»",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "text": "Celle ou Ten drague son collÃ¨gue en portant nonchalamment le tote bag Â«Â Parisien, ParisienneÂ Â»",
+          "points": {}
         },
         {
-          "text": "Celle oÃ¹ Ten fait semblant dâ€™avoir froid dans un parc",
+          "text": "Celle ou Ten fait semblant dâ€™avoir froid dans un parc",
           "points": {
             "Pipi": 1
           }
         },
         {
-          "text": "Celle ou Ten boit un Starbuck en regardant par la vitre avec des lumiÃ¨res de phares",
+          "text": "Celle ou Ten boit un Starbuck en regardant par la vitre avec des lumieres de phares",
           "points": {
             "Scooter": 1
           }
@@ -118,19 +110,17 @@
       "text": "Quel est ton rapport aux cafards ?",
       "answers": [
         {
-          "text": "Artistique : tu en as dessinÃ© sur un plaid",
+          "text": "Artistique : tu en as dessine sur un plaid",
           "points": {
             "Stationner": 1
           }
         },
         {
-          "text": "GÃ©nÃ©reux : tu leur a louÃ© quelques mois un petit studio dans le 18e pour quâ€™ils soient bien au chaud",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "text": "Genereux : tu leur a louÃ© quelques mois un petit studio dans le 18e pour quâ€™ils soient bien au chaud",
+          "points": {}
         },
         {
-          "text": "PrÃ©dateur : Tu les captures dans des mugs quand tu en trouves",
+          "text": "Predateur : Tu les captures dans des mugs quand tu en trouves",
           "points": {
             "Scooter": 1
           }
@@ -144,7 +134,7 @@
       ]
     },
     {
-      "text": "Ã€ fuck-mary-kill, quel trinÃ´me choisis-tu de bon coeur ?",
+      "text": "Ã€ fuck-mary-kill, quel trinome choisis-tu de bon coeur ?",
       "answers": [
         {
           "text": "Waxx, Mcfly, Ross Geller",
@@ -154,7 +144,7 @@
           }
         },
         {
-          "text": "GrishnÃ¡kh, Sauron, Gandalf",
+          "text": "Grishnakh, Sauron, Gandalf",
           "points": {
             "Cosette": 1
           }
@@ -166,56 +156,50 @@
           }
         },
         {
-          "text": "Lâ€™Ã¢ne de Shrek, Shrek, AmÃ©lie OudÃ©a-CastÃ©ra dans la vidÃ©o oÃ¹ elle se baigne dans la Seine",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "text": "Lâ€™ane de Shrek, Shrek, AmÃ©lie Oudea-Castera dans la vidÃ©o oÃ¹ elle se baigne dans la Seine",
+          "points": {}
         }
       ]
     },
     {
-      "text": "Quel.le membre de la famille d'Hadrien a ta prÃ©fÃ©rence (entre nous ;) ) ?",
+      "text": "Quel.le membre de la famille d'Hadrien a ta preference (entre nous ;) ) ?",
       "answers": [
         {
-          "text": "JÃ©rome son pÃ¨re",
+          "text": "Jerome son pere",
           "points": {
             "Stationner": 1
           }
         },
         {
-          "text": "Claire sa mÃ¨re",
+          "text": "Claire sa mere",
           "points": {
             "Pipi": 1
           }
         },
         {
-          "text": "AdÃ¨le sa soeur",
+          "text": "Adele sa soeur",
           "points": {
             "Scooter": 1
           }
         },
         {
-          "text": "Joseph son frÃ¨re",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "text": "Joseph son frere",
+          "points": {}
         },
         {
-          "text": "LÃ©o son presque frÃ¨re",
+          "text": "Leo son presque frere",
           "points": {
             "Cosette": 1
           }
         },
         {
           "text": "Andorre son chien idiot",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "points": {}
         }
       ]
     },
     {
-      "text": "Maintenant, quelÂ·le membre de sa *vraie* famille a ta prÃ©fÃ©rence ?",
+      "text": "Maintenant, quel.le membre de sa *vraie* famille a ta preference ?",
       "answers": [
         {
           "text": "Ten son partenaire de vie",
@@ -231,23 +215,22 @@
           }
         },
         {
-          "text": "Ludine sa prÃ©fÃ©rÃ©e",
+          "text": "Ludine sa preferee",
           "points": {
             "Stationner": 1,
-            "EspÃ©rance": 1,
             "Scooter": 1,
             "Cosette": 1
           }
         },
         {
-          "text": "Orel son maÃ®tre Ã  penser",
+          "text": "Orel son maitre a penser",
           "points": {
             "Stationner": 1,
             "Scooter": 1
           }
         },
         {
-          "text": "Cosette son maÃ®tre tout court",
+          "text": "Cosette son maitre tout court",
           "points": {
             "Cosette": 3
           }
@@ -255,40 +238,36 @@
       ]
     },
     {
-      "text": "Câ€™est samedi aprÃ¨s-midi, tu te lirais bien un petit livre. Quel ouvrage choisis-tu dans ta PAL (pile Ã  lire) ?",
+      "text": "Câ€™est samedi apres-midi, tu te lirais bien un petit livre. Quel ouvrage choisis-tu dans ta PAL (pile a lire) ?",
       "answers": [
         {
           "text": "Le Hobbit (J.R.R Tolkien, 1937) ou autre livre de SF/fantasy/whatever mais il y a des armures",
           "points": {
             "Stationner": 2,
-            "EspÃ©rance": 1,
             "Pipi": 1
           }
         },
         {
-          "text": "La mer a ses raisons (Romuald Delacour, ed. Les mots et le reste, 2022), rÃ©cit de navigation et chef d'oeuvre contemporain",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "text": "La mer a ses raisons (Romuald Delacour, ed. Les mots et le reste, 2022), recit de navigation et chef d'oeuvre contemporain",
+          "points": {}
         },
         {
-          "text": "Le mythe de la virilitÃ© (Olivia GazalÃ©, ed Agora, 2017) ou autre essai fÃ©ministe car tu travailles activement Ã  ta dÃ©construction mÃªme si bien sÃ»r c'est un chemin",
+          "text": "Le mythe de la virilitÃ© (Olivia Gazale, ed Agora, 2017) ou autre essai feministe car tu travailles activement Ã  ta deconstruction mÃªme si bien sÃ»r c'est un chemin",
           "points": {
             "Pipi": 1
           }
         },
         {
-          "text": "Lâ€™or des jours (Romuald Delacour, ed. Les mots et le reste, 2026) car dÃ©cidÃ©ment tu adores cet auteur",
+          "text": "Lâ€™or des jours (Romuald Delacour, ed. Les mots et le reste, 2026) car decidÃ©ment tu adores cet auteur",
           "points": {
             "Stationner": 1,
-            "EspÃ©rance": 1,
             "Pipi": 1
           }
         }
       ]
     },
     {
-      "text": "Quelle LV2 maÃ®trise tu le mieux ?",
+      "text": "Quelle LV2 maitrise tu le mieux ?",
       "answers": [
         {
           "text": "Lâ€™anglais",
@@ -304,12 +283,11 @@
         {
           "text": "Le franÃ§ais",
           "points": {
-            "Stationner": 1,
-            "EspÃ©rance": 1
+            "Stationner": 1
           }
         },
         {
-          "text": "Le norvÃ©gien",
+          "text": "Le norvegien",
           "points": {
             "Scooter": 1
           }
@@ -318,7 +296,6 @@
           "text": "L'esperanto",
           "points": {
             "Stationner": 1,
-            "EspÃ©rance": 1,
             "Pipi": 1,
             "Scooter": 1,
             "Cosette": 2
@@ -327,22 +304,20 @@
       ]
     },
     {
-      "text": "Si tu Ã©tais contraint Ã  un exil temporaire, oÃ¹ prÃ©fÃ¨rerais tu vivre pendant 6 mois ?",
+      "text": "Si tu etais contraint.e Ã  un exil temporaire, ou prÃ©fÃ¨rerais tu vivre pendant 6 mois ?",
       "answers": [
         {
-          "text": "Dans un van pour 4 personnes avec toute ta famille MAIS en Ã‰cosse terre de lÃ©gendes",
+          "text": "Dans un van pour 4 personnes avec toute ta famille MAIS en Ecosse terre de lÃ©gendes",
           "points": {
             "Stationner": 1
           }
         },
         {
-          "text": "Ã€ Penne-d'Agenais, chambre littÃ©raire",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "text": "Ã€ Penne-d'Agenais, chambre litteraire",
+          "points": {}
         },
         {
-          "text": "Tant que tu es avec Ten, tu pourrais aller nâ€™importe oÃ¹",
+          "text": "Tant que tu es avec Ten, tu pourrais aller nâ€™importe ou",
           "points": {
             "Scooter": 1
           }
@@ -350,14 +325,13 @@
         {
           "text": "Dans un sous marin avec quelquâ€™un que tu aimes bof par exemple",
           "points": {
-            "EspÃ©rance": 1,
             "Cosette": 1
           }
         }
       ]
     },
     {
-      "text": "Quel est ton fruit prÃ©fÃ©rÃ© ?",
+      "text": "Quel est ton fruit favori ?",
       "answers": [
         {
           "text": "Le litchi, car tu n'es pas comme les autres",
@@ -367,18 +341,16 @@
         },
         {
           "text": "La banane ou les fruits rouges, car tu n'es pas Ten",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "points": {}
         },
         {
-          "text": "Les croquettes, car tu es un un peu spÃ©cial",
+          "text": "Les croquettes, car tu es un un peu special.e",
           "points": {
             "Pipi": 1
           }
         },
         {
-          "text": "La mangue, car tu ne savais pas qu'un fruit pouvait avoir un tel goÃ»t",
+          "text": "La mangue, car tu ne savais pas qu'un fruit pouvait avoir un tel gout",
           "points": {
             "Cosette": 2
           }
@@ -386,13 +358,11 @@
       ]
     },
     {
-      "text": "Ton jeu vidÃ©o favori ?",
+      "text": "Ton jeu video favori ?",
       "answers": [
         {
           "text": "Elden ring",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "points": {}
         },
         {
           "text": "Minecraft",
@@ -408,9 +378,7 @@
         },
         {
           "text": "Fifa",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "points": {}
         },
         {
           "text": "Animal crossing",
@@ -436,16 +404,14 @@
           }
         },
         {
-          "text": "Proposes poliment de conduire la voiture, enfin si personne dâ€™autre veut le faire, toi Ã§a te fait plaisir mais si Ã§a fait plus plaisir Ã  quelquâ€™un dâ€™autre Ã§a te fait plaisir de laisser la place",
+          "text": "Proposes poliment de conduire la voiture, enfin si personne dâ€™autre veut le faire, toi Ã§a te fait plaisir mais si Ã§a fait plus plaisir Ã  quelquâ€™un.e dâ€™autre Ã§a te fait plaisir de laisser la place aussi",
           "points": {
             "Pipi": 1
           }
         },
         {
           "text": "Pleures pour ne pas conduire",
-          "points": {
-            "EspÃ©rance": 2
-          }
+          "points": {}
         },
         {
           "text": "Fais un AVC",
@@ -456,16 +422,14 @@
       ]
     },
     {
-      "text": "Si tu avais Ã©tÃ© chez les scouts unitaires de France, quel surnom tâ€™aurais Ã©tÃ© attribuÃ© ?",
+      "text": "Si tu avais ete chez les scouts unitaires de France, quel surnom tâ€™aurais Ã©tÃ© attribue ?",
       "answers": [
         {
           "text": "\"Aigle voltigeur\"Â car tu es habile",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "points": {}
         },
         {
-          "text": "\"Buffle bonimenteur\" car tu es fortÂ·e",
+          "text": "\"Buffle bonimenteur\" car tu es fort.e",
           "points": {
             "Pipi": 1
           }
@@ -477,33 +441,27 @@
           }
         },
         {
-          "text": "\"Le nain tracassin\" car tu es petitÂ·e",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "text": "\"Le nain tracassin\" car tu es petit.e",
+          "points": {}
         }
       ]
     },
     {
-      "text": "La vaisselle sale sâ€™accumule dans lâ€™Ã©vierâ€¦ Pas cool. Tu :",
+      "text": "La vaisselle sale sâ€™accumule dans lâ€™evierâ€¦ Pas cool. Tu :",
       "answers": [
         {
-          "text": "La fais avec le sourire - fÃ©e du logis",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "text": "La fais avec le sourire - fee du logis",
+          "points": {}
         },
         {
-          "text": "La fais avec ta langue - kiffeurÂ·euse",
+          "text": "La fais avec ta langue - kiffeur.euse",
           "points": {
             "Cosette": 1
           }
         },
         {
           "text": "Meurs - Ludine",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "points": {}
         },
         {
           "text": "Nâ€™aurais jamais pu laisser cette situation se produire car tu laves toujours ton verre immÃ©diatement aprÃ¨s avoir bu dedans en fait - points sur les i et barres aux t",
@@ -529,16 +487,14 @@
           }
         },
         {
-          "text": "Ten dÃ©guisÃ© en policier car acab",
+          "text": "Ten deguise en policier car acab",
           "points": {
             "Pipi": 1
           }
         },
         {
           "text": "Quelquâ€™un qui vivrait dans un sous marin car c'est bizarre",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "points": {}
         }
       ]
     },
@@ -559,18 +515,16 @@
         },
         {
           "text": "Tu y vas et tu regrettes",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "points": {}
         },
         {
-          "text": "Tu vas Ã  CompiÃ¨gnes",
+          "text": "Tu vas Ã  Compiegnes",
           "points": {
             "Scooter": 1
           }
         },
         {
-          "text": "Tu prÃ©fÃ¨res dormir sur une table",
+          "text": "Tu preferes dormir sur une table",
           "points": {
             "Cosette": 1
           }
@@ -578,7 +532,7 @@
       ]
     },
     {
-      "text": "Si tu devais choisir une de ces citations comme Ã©pitaphe, vers laquelle te tournerais-tu ?",
+      "text": "Si tu devais choisir une de ces citations comme epitaphe, vers laquelle te tournerais-tu ?",
       "answers": [
         {
           "text": "\"Me critiquez pas, c'est mes Ã  cause de mes troubles mentaux.\" - Ten Delacour",
@@ -587,10 +541,8 @@
           }
         },
         {
-          "text": "\"Si on voit un cul flottant, c'est que je me suis noyÃ©.\" - Ten Delacour",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "text": "\"Si on voit un cul flottant, c'est que je me suis noye.\" - Ten Delacour",
+          "points": {}
         },
         {
           "text": "\"Les trois moustiquaires sont de retour.\" - Chaima Ledenmat",
@@ -605,7 +557,7 @@
           }
         },
         {
-          "text": "\"LÃ¢che ton tel bro.\" - Hadrien Penot-Civel",
+          "text": "\"Lache ton tel bro.\" - Hadrien Penot-Civel",
           "points": {
             "Stationner": 1
           }
@@ -613,13 +565,11 @@
       ]
     },
     {
-      "text": "Dirais-tu de toi mÃªme que tu es unÂ·e \"cool kid\" ?",
+      "text": "Dirais-tu de toi meme que tu es unÂ·e \"cool kid\" ?",
       "answers": [
         {
-          "text": "Bien sÃ»r",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "text": "Assurement",
+          "points": {}
         },
         {
           "text": "Oui",
@@ -635,9 +585,7 @@
         },
         {
           "text": "Je ne parle pas anglais",
-          "points": {
-            "EspÃ©rance": 1
-          }
+          "points": {}
         },
         {
           "text": "Je ne sais pas parler",
@@ -648,7 +596,7 @@
       ]
     },
     {
-      "text": "Enfin, quelle Ã©nergie ton aura give-t-elle SELON TOI ?",
+      "text": "Enfin, quelle energie ton aura give-t-elle SELON TOI ?",
       "answers": [
         {
           "text": "Un scooter des neiges",
@@ -658,9 +606,7 @@
         },
         {
           "text": "Une rue du 13e arrondissement",
-          "points": {
-            "EspÃ©rance": 12
-          }
+          "points": {}
         },
         {
           "text": "Un chien qui urine",
@@ -686,23 +632,23 @@
   "results": {
     "Stationner": {
       "title": "Tu es le panneau \"Interdit de stationner\"",
-      "description": "Avec toi on ne sait jamais Ã  quoi sâ€™attendre : prÃ©sence d'une intersection, d'un virage, d'un passage Ã  niveau ou du sommet d'une cÃ´te, ton Ã©noncÃ© sommaire laisse libre cours Ã  lâ€™imagination et sa course dÃ©bridÃ©e. Mais si les paroles nâ€™engagent que ceux qui les Ã©coutent, fais tout de mÃªme attention Ã  toi : transformÃ© en table par la famille Penot-Civel, on aime Ã  se reposer sur ta surface, voir Ã  y mettre des trucs lourds. Souviens toi de qui tu es et stand up for yourself avant de ployer sous la charge."
+      "description": "Avec toi on ne sait jamais Ã  quoi sâ€™attendre : presence d'une intersection, d'un virage, d'un passage Ã  niveau ou du sommet d'une cote, ton enonce sommaire laisse libre cours Ã  lâ€™imagination et sa course debridee. Mais si les paroles nâ€™engagent que ceux qui les ecoutent, fais tout de mÃªme attention Ã  toi : transforme en table par la famille Penot-Civel, on aime Ã  se reposer sur ta surface, voir a y mettre des trucs lourds. Souviens toi de qui tu es et stand up for yourself avant de ployer sous la charge."
     },
-    "EspÃ©rance": {
-      "title": "Tu es le panneau \"Rue de lâ€™espÃ©rance\"",
-      "description": "Qui se nourrit dâ€™espoir... risque de mourir de faim. Sauvagement arrachÃ© Ã  ton mur natal dans une rue oÃ¹ Hadrien a vÃ©cu, tu gardes en ta chair la mÃ©moire indÃ©lÃ©bile de cet acte peu citoyen qui a non seulement privÃ© de nombreuses Ã¢mes Ã©garÃ©es d'une indication salvatrice, mais t'as Ã©galement retirÃ© ta raison d'Ãªtre... Aujourd'hui relÃ©guÃ© au dessus d'une hotte, tu aspires (comme la hotte) Ã  plus pour toi-mÃªme. Comme dit le poÃ¨te, 'Lâ€™espoir fait vivre.\", et il est plus que jamais bon de s'en souvenir en ces temps troublÃ©s."
+    "Esperance": {
+      "title": "Tu es le panneau \"Rue de lâ€™Esperance\"",
+      "description": "Qui se nourrit dâ€™espoir... risque de mourir de faim. Sauvagement arrache Ã  ton mur natal dans une rue ou Hadrien a vecu, tu gardes en ta chair la mÃ©moire indÃ©lÃ©bile de cet acte peu citoyen qui a non seulement prive de nombreuses ames egarees d'une indication salvatrice, mais t'as egalement retire ta raison d'etre... Aujourd'hui relegue au dessus d'une hotte, tu aspires (comme la hotte) a plus pour toi-mÃªme. Comme dit le poete, 'Lâ€™espoir fait vivre.\", et il est plus que jamais bon de s'en souvenir en ces temps troublÃ©s."
     },
     "Pipi": {
       "title": "Tu es le panneau \"Interdit de faire pipi\"",
-      "description": "Parfois il est nÃ©cessaire de rappeler les rÃ¨gles essentielles du savoir vivre, et Ã§a tombe bien car tu es lÃ . Si lâ€™on devait rÃ©sumer ta vie en un mantra, ce serait sans doute aucun \"Jâ€™accueille ce qui est, sans rÃ©sistance.â€. Mais si la dinde est tolÃ©rante, elle dÃ©teste les farceurs. Ne relaies pas des dogmes et autres principes hygiÃ©nistes arbitraires sans les comprendre, car c'est ainsi qu'on devient le soldat du fascisme. LÃ¢che un peu de lest au monde et accorde toi une pause."
+      "description": "Parfois il est necessaire de rappeler les rÃ¨gles essentielles du savoir vivre, et Ã§a tombe bien car tu es la. Si lâ€™on devait resumer ta vie en un mantra, ce serait sans doute aucun \"Jâ€™accueille ce qui est, sans rÃ©sistance.â€. Mais si la dinde est tolÃ©rante, elle deteste les farceurs. Ne relaies pas des dogmes et autres principes hygiÃ©nistes arbitraires sans les comprendre, car c'est ainsi qu'on devient le soldat du fascisme. LÃ¢che un peu de lest au monde et ne t'inquiÃ¨te pas, notre coeur te reste ouvert."
     },
     "Scooter": {
       "title": "Tu es le panneau \"Scooterloype\"",
-      "description": "Au premier abord on ne sait pas bien ce que tu signifies, et il faut bien avouer que toi mÃªme tu as parfois eu des doutes. Mais comme l'ont dit, en leurs temps respectifs, Saint ExupÃ©ry et Papa Situations : Â«Â On ne voit bien qu'avec le coeur, l'essentiel est invisible pour les yeux.Â Â» et ainsi, ce n'est pas si grave. Tu viens de terres froides et lointaines, tu as Ã©tÃ© transportÃ© par les mers gelÃ©es pour finir sur un frigo, et cela pourrait sembler caustique si Ã§a n'Ã©tait pas absolument romanesque. Ton destin est grand !"
+      "description": "Au premier abord on ne sait pas bien ce que tu signifies, et il faut bien avouer que toi mÃªme tu as parfois eu des doutes. Mais comme l'ont dit, en leurs temps respectifs, Saint Exupery et Papa Situations : Â«Â On ne voit bien qu'avec le coeur, l'essentiel est invisible pour les yeux.Â Â» et ainsi, ce n'est pas si grave. Tu viens de terres froides et lointaines, tu as Ã©tÃ© transporte par les mers gelees pour finir sur un frigo, et cela pourrait sembler caustique si Ã§a n'Ã©tait pas absolument romanesque. Ton destin est grand !"
     },
     "Cosette": {
       "title": "Miaou, tu es Cosette",
-      "description": "Tu nâ€™es pas un panneau, et tu ne tombes jamais dedans non plus (mais parfois tu les fais tomber). Agile et gracieuse, tu sais slalomer entre les obstacles que la vie te prÃ©sente, et ce sans signalisation. Comme toujours tu es la reine de coeur des chats et des nÃ´tres, ne change rien bellacita."
+      "description": "Tu nâ€™es pas un panneau, et tu ne tombes jamais dedans non plus (mais parfois tu les fais tomber). Agile et gracieuse, tu sais slalomer entre les obstacles que la vie te prÃ©sente, et ce sans signalisation. Comme toujours tu es la reine de coeur des chats et des notres, ne change rien bellacita."
     }
   },
   "image": "https://gist.github.com/user-attachments/assets/294bbde6-79a8-4c6e-8257-01c93652812f"
